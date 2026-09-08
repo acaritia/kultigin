@@ -15,7 +15,7 @@ discovery engine. Bypasses HTTP 999 anti-bot walls via crawler emulation, parses
 Schema.org JSON-LD, extracts unmasked positions, certifications, educations,
 languages, posts, profile pictures, and performs company employee discovery.
 
-Author: ben
+Author: swirner
 ================================================================================
 """
 
